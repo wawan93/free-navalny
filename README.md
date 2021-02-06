@@ -33,3 +33,4 @@
 | 2    | Максимов-Наливайко Филипп | Android developer, Ренессанс здоровье |
 | 3    | Сундуков Андрей      | Senior Software Developer, EPAM         |
 | 4    | Кочергин Владимир  | Go Developer, freelancer                |
+| 5    | Родионов Александр | Программист 1С              |
