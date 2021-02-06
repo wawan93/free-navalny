@@ -32,3 +32,4 @@
 | 1    | Подонин Николай      | Android developer, Ренессанс здоровье |
 | 2    | Сундуков Андрей      | Senior Software Developer, EPAM         |
 | 3    | Кочергин Владимир  | Go Developer, freelancer                |
+| 4    | Максимов-Наливайко Филипп | Android developer, Ренессанс здоровье |
